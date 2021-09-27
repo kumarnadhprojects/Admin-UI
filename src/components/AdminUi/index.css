@@ -1,0 +1,102 @@
+.primedeals-list-heading {
+  color: #475569;
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 500;
+  margin-top: 48px;
+}
+
+.user-delete-icon-hide {
+  display: none;
+}
+
+.user-footer {
+  border: none;
+}
+
+.pagination-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  border: none;
+  cursor: pointer;
+  margin-left: 23px;
+  font-family: "Roboto";
+  background-color: #1a8ffc;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.pagination-buttons {
+  text-align: center;
+}
+
+.users-loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 500px;
+}
+
+.user-multiple-delete-icon {
+  background-color: #ee4e70;
+  border-radius: 20px;
+  border: none;
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 500;
+  padding: 10px;
+  width: 130px;
+  margin-left: 25px;
+  margin-top: -15px;
+  cursor: pointer;
+}
+
+.empty-admin-data {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 500px;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+
+.check-box {
+  width: 300px;
+  padding-left: 40px;
+}
+
+.check-box-styles {
+  width: 17px;
+  height: 16px;
+}
+
+.search-box {
+  padding: 10px;
+  font-size: 15px;
+  border: 1px solid #dddddd;
+  font-family: "Roboto";
+}
+
+.admin-panel-container {
+  margin: 10px;
+}
+
+.primedeals-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+
+.register-prime-image {
+  margin-top: 30px;
+}
+
+.primedeals-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
