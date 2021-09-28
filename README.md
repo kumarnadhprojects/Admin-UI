@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with ADMIN UI
+![Screenshot from 2021-09-28 10-02-56](https://user-images.githubusercontent.com/83106603/135023710-75706ec5-57b5-4433-9622-eb335b28e2d1.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
